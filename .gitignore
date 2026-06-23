@@ -1,0 +1,9 @@
+# File rác sinh ra khi chạy server
+logs/
+crash-reports/
+*.log
+*.log.gz
+eula.txt
+usercache.json
+playit.toml
+.cache/

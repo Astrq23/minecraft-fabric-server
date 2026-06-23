@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-fabric-server",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "21",
+      "jdkDistro": "tem"
+    }
+  },
+  "onCreateCommand": "bash .devcontainer/setup.sh",
+  "forwardPorts": [25565],
+  "portsAttributes": {
+    "25565": {
+      "label": "minecraft",
+      "protocol": "tcp"
+    }
+  },
+  "hostRequirements": {
+    "cpus": 4,
+    "memory": "8gb"
+  }
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "uuid": "f8419bc8-5ad2-42c4-b672-1b0234eca133",
+    "displayName": {
+      "insertion": "Nemesis",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Nemesis "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "f8419bc8-5ad2-42c4-b672-1b0234eca133",
+          "name": {
+            "text": "Nemesis"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Nemesis"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "hidden"
+  },
+  {
+    "uuid": "c81b368b-e4a4-3ede-9dba-44e58c49a418",
+    "displayName": {
+      "insertion": "DucPhuc",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell DucPhuc "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "c81b368b-e4a4-3ede-9dba-44e58c49a418",
+          "name": {
+            "text": "DucPhuc"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "DucPhuc"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "hidden"
+  },
+  {
+    "uuid": "15a51bc1-be06-3689-820e-def4321f2334",
+    "displayName": {
+      "insertion": "Nemesis",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Nemesis "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "15a51bc1-be06-3689-820e-def4321f2334",
+          "name": {
+            "text": "Nemesis"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Nemesis"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "hidden"
+  },
+  {
+    "uuid": "88d32d68-44bf-31fe-90fe-3b8390482fa4",
+    "displayName": {
+      "insertion": "Mhieu",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Mhieu "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "88d32d68-44bf-31fe-90fe-3b8390482fa4",
+          "name": {
+            "text": "Mhieu"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Mhieu"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "hidden"
+  }
+]
